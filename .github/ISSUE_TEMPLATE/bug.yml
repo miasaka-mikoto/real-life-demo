@@ -1,0 +1,43 @@
+name: Bug report
+description: Report a reproducible public beta problem
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version / runtime commit
+      description: Copy from RELEASE_MANIFEST.json.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Windows, GPU and input device
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options: ["P0 - crash/data loss/cannot start", "P1 - normal route blocked/major failure", "P2 - polish/minor issue"]
+    validations:
+      required: true
+  - type: dropdown
+    id: save
+    attributes:
+      label: Save type
+      options: ["Fresh save", "Continued save", "Both", "Not applicable"]
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      description: Record the first unexpected result instead of retrying until it works.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots, video or logs

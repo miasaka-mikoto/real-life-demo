@@ -1,0 +1,29 @@
+name: Player feedback
+description: Tell us what worked, confused you or made you want to continue
+title: "[Feedback] "
+labels: ["feedback"]
+body:
+  - type: input
+    id: duration
+    attributes:
+      label: Play duration and careers tried
+    validations:
+      required: true
+  - type: textarea
+    id: first-minute
+    attributes:
+      label: What did you think the game wanted you to do in the first minute?
+    validations:
+      required: true
+  - type: textarea
+    id: meaningful
+    attributes:
+      label: Which decision, asset or relationship felt most meaningful?
+  - type: textarea
+    id: friction
+    attributes:
+      label: What was confusing, repetitive or uncomfortable?
+  - type: textarea
+    id: next
+    attributes:
+      label: After the session, what did you want to do next?

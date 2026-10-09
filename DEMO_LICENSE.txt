@@ -1,0 +1,10 @@
+REAL.LIFE PUBLIC DEMO LICENSE
+Copyright (c) 2026 miasaka-mikoto. All rights reserved.
+
+Permission is granted to download, install and play the unmodified REAL.LIFE public demo for personal, non-commercial evaluation and to share links to the official download page.
+
+You may not redistribute modified packages, sell the demo, extract or reuse project assets, represent the demo as your own work, or use the contents to train or assemble a competing asset pack without written permission from the copyright holder.
+
+Screenshots, recorded gameplay, reviews and non-commercial commentary about the demo are permitted.
+
+THE DEMO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. PRE-RELEASE SAVES MAY NOT BE COMPATIBLE WITH FUTURE VERSIONS.
