@@ -1,6 +1,6 @@
-# REAL.LIFE ? Public Demo Beta
+# REAL.LIFE: Public Demo Beta
 
-[????](README.zh-CN.md)
+[简体中文](README.zh-CN.md)
 
 [![Download](https://img.shields.io/badge/Download-Windows_Beta-5b8f86?style=for-the-badge)](https://github.com/miasaka-mikoto/real-life-demo/releases/latest)
 [![Version](https://img.shields.io/badge/version-0.3.0--beta.1-e0b96b?style=for-the-badge)](https://github.com/miasaka-mikoto/real-life-demo/releases/tag/v0.3.0-beta.1)
